@@ -46,5 +46,5 @@
 
 
 [![Telegram](https://img.shields.io/badge/Dmtrgrvnk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmtrgrvnk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBRDsjfnFJTcZgCQZqrnnnhpHpHbzlQJdFPXrcgjqsMkNGntRCDPkcdJmzFGfbgqzdQSB)
+[![Gmail](https://img.shields.io/badge/dmtrgrvnk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZBRDsjfnFJTcZgCQZqrnnnhpHpHbzlQJdFPXrcgjqsMkNGntRCDPkcdJmzFGfbgqzdQSB)
 
