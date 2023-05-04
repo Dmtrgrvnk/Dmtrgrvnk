@@ -12,12 +12,18 @@
 ## Skills and tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -37,8 +43,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dmtrgrvnk&theme=dark)
 
 [![codewars](https://www.codewars.com/users/Dmtrgrvnk/badges/large)](https://www.codewars.com/users/Dmtrgrvnk)
-
-[![Stepik](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stepik_logotype.png/80px-Stepik_logotype.png)](https://stepik.org/users/564934690)
+[![Stepik](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stepik_logotype.png/40px-Stepik_logotype.png)](https://stepik.org/users/564934690)
 
 
 
