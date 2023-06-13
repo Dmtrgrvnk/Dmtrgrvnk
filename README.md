@@ -4,7 +4,7 @@
 
 ## About:
 
-- Beginner web programmer.
+- Python web programmer.
 - I take information from books, online courses, YouTube videos, and also read other people's code.
 - I mainly develop web applications on django, supplementing it with relevant technologies and tools.
 - I am fond of fitness and cinema.
